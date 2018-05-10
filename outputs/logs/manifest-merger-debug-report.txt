@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5c81a5811630f8c41c5a9388e1f573a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f57a92e3d293f3db6af0fb0bdbb8829b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9e34bd420b968e64b61b82ac27bffe43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70b01a19473ff8fb192dd814e573a5c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62c374fc0571f857e89c027cd2659286\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bba50dc0c9edb427d4bd2ef26c4d351a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30181bdeff2489199c532c3743b6a933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5c5a5f91ef7c58eb8485c5701084ca30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ff61596eb3cd0ff266fc6678e91a0bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63a0a20de6117519c53ef8b0e6bef5bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7683d5249ac3c4c3ee66e0510c22e328\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5725e92b7dff60fcbc851354c24d1da6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:5:22-71
+uses-feature#android.hardware.fingerprint
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:8:9-52
+application
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f57a92e3d293f3db6af0fb0bdbb8829b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f57a92e3d293f3db6af0fb0bdbb8829b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:17:9-40
+activity#freeriders.password_keeper.MainActivity
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:22:27-74
+activity#freeriders.password_keeper.add
+ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:25:9-41
+	android:name
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml:25:19-38
+uses-sdk
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5c81a5811630f8c41c5a9388e1f573a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5c81a5811630f8c41c5a9388e1f573a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f57a92e3d293f3db6af0fb0bdbb8829b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f57a92e3d293f3db6af0fb0bdbb8829b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9e34bd420b968e64b61b82ac27bffe43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9e34bd420b968e64b61b82ac27bffe43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70b01a19473ff8fb192dd814e573a5c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70b01a19473ff8fb192dd814e573a5c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62c374fc0571f857e89c027cd2659286\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62c374fc0571f857e89c027cd2659286\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bba50dc0c9edb427d4bd2ef26c4d351a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bba50dc0c9edb427d4bd2ef26c4d351a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30181bdeff2489199c532c3743b6a933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30181bdeff2489199c532c3743b6a933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5c5a5f91ef7c58eb8485c5701084ca30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5c5a5f91ef7c58eb8485c5701084ca30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ff61596eb3cd0ff266fc6678e91a0bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9ff61596eb3cd0ff266fc6678e91a0bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63a0a20de6117519c53ef8b0e6bef5bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63a0a20de6117519c53ef8b0e6bef5bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7683d5249ac3c4c3ee66e0510c22e328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7683d5249ac3c4c3ee66e0510c22e328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5725e92b7dff60fcbc851354c24d1da6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5725e92b7dff60fcbc851354c24d1da6\AndroidManifest.xml:20:5-44
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android works all\password_keeper\app\src\main\AndroidManifest.xml
